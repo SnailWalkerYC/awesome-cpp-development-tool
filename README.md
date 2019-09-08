@@ -32,7 +32,7 @@
 
   - [Sublime Text](https://www.sublimetext.com)
 - Debug Tool 
-- [gdb](https://github.com/cyrus-and/gdb-dashboard)
+  - [gdb](https://github.com/cyrus-and/gdb-dashboard)
 - Command Line tool
 
   - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html)
