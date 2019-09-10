@@ -9,6 +9,8 @@
   - [Design Patterns, Elements of Reusable Object-Oriented Software](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
   - [Effective C++, More Effective C++](http://icedane.insomnia247.nl/secretlol/Effective%20C++%3BMore%20Effective%20C++.pdf)
   - [Effective Modern C++](https://www.pdfdrive.com/effective-modern-c-d33410846.html)
+- Short and excellent modern C++ videos
+  - [Youtuber Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ)
 - Unit test framework 
   - [GoogleTest](https://github.com/google/googletest)
   - [cpputest](https://github.com/cpputest/cpputest)
